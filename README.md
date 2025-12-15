@@ -79,8 +79,8 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/employee-management-system.git
-cd employee-management-system
+git clone https://github.com/Yugesh0407ravidas/EM-Penthara.git
+cd EM-Penthara
 
 2️⃣ Run Backend
 cd backend
